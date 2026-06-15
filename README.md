@@ -20,4 +20,11 @@
 **SQL|**
 **Python**
 
+## MY PROJECTS
+
+A glimpse of some projects i worked on.
+
+[image] (project)
+
+
 
