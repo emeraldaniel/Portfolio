@@ -4,20 +4,20 @@ Hello, I'm **Peace Friday Daniel**, an aspiring Data Analyst passionate about tr
 
 ## WHAT I DO
 
-**Analyze and interpret data to uncover insights.
+**Analyze and interpret data to uncover insights.**
 
-**Build interactive dashboards using Power BI and Excel.
+**Build interactive dashboards using Power BI and Excel.**
 
-**Query and manage data using SQL.
+**Query and manage data using SQL.**
 
-**Perform data cleaning and analysis with Python.
+**Perform data cleaning and analysis with Python.**
 
-** Support and mentor fellow learners in data analytics.
+** Support and mentor fellow learners in data analytics.**
 
 ## TOOLS
-**Excel
-**Power BI
-**SQL
-**Python
+**Excel**
+**Power BI**
+**SQL**
+**Python**
 
 
