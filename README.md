@@ -24,7 +24,7 @@
 
 A glimpse of some projects i worked on.
 
-[image] (project)JJ
+![image] (project)JJ
 
 
 
