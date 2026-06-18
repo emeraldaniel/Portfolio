@@ -51,9 +51,35 @@ Developed an interactive Power BI dashboard that provides insights into retail s
 * Transforming raw sales data into actionable insights.
 * Applying data visualization techniques to support decision-making.
 
+# CookieMetrics Pro Dashboard
 
+**Tool Used:** Microsoft Excel
 
+## Business Problem
 
+Organizations need a simple way to track product sales, revenue, costs, and profitability across different countries and product categories. Raw spreadsheets often make trend analysis difficult.
+
+## Project Description
+
+Built an interactive Excel dashboard to monitor product performance, profitability, and revenue trends across multiple countries. Using Pivot Tables, Pivot Charts, and Slicers, the dashboard delivers a concise overview of business performance.
+
+## Dashboard Screenshot
+
+*(Insert dashboard image here)*
+
+## Key Insights
+
+* Product sales volumes varied significantly across product categories.
+* Revenue and cost metrics provided a clear view of business profitability.
+* Country-level analysis highlighted differences in market performance.
+* Interactive filters enabled quick comparison of products and regions.
+
+## What I Learned
+
+* Building dynamic dashboards using Excel.
+* Using Pivot Tables and Slicers for interactive reporting.
+* Presenting business data through effective visualizations.
+* Creating KPI-driven reports for performance monitoring.
 
 
 
