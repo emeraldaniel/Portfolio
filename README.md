@@ -35,9 +35,7 @@ Retail businesses need a clear understanding of sales performance across custome
 
 Developed an interactive Power BI dashboard that provides insights into retail sales performance by customer, state, and retailer type. The dashboard enables users to monitor key business metrics and identify trends that impact profitability and revenue generation.
 
-## Dashboard Screenshot
-
-![image](bbb.png) 
+![Retail Sales Dashboard](images/retail-dashboard.png)
 
 ## Key Insights
 
