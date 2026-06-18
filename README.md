@@ -79,5 +79,32 @@ Built an interactive Excel dashboard to monitor product performance, profitabili
 * Presenting business data through effective visualizations.
 * Creating KPI-driven reports for performance monitoring.
 
+# Refresh Insights – Beverage Brand Sales Dashboard
+
+**Tool Used:** Microsoft Excel
+
+## Business Problem
+
+Beverage companies require visibility into sales performance, profitability, expenses, and regional trends to optimize operations and improve decision-making.
+
+## Project Description
+
+Developed an Excel dashboard that analyzes beverage sales performance across brands and regions. The dashboard consolidates revenue, profit, expenses, units sold, and pricing metrics into an easy-to-understand reporting interface.
+
+![Beverage Insights](rrr.png)
+
+## Key Insights
+
+* Revenue exceeded $661 million while profit approached $660 million.
+* Certain beverage brands generated higher unit sales than others.
+* Revenue performance differed across regions, highlighting top-performing markets.
+* Monthly average prices remained relatively stable with slight fluctuations throughout the year.
+
+## What I Learned
+
+* Creating business-focused dashboards in Excel.
+* Developing KPI cards and interactive filters.
+* Analyzing sales trends and brand performance.
+* Converting raw sales data into actionable business insights.
 
 
