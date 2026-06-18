@@ -20,7 +20,7 @@ Hello, I'm **Peace Friday Daniel**, an aspiring Data Analyst passionate about tr
 **SQL|**
 **Python**
 
-## MY PROJECTS
+# MY PROJECTS
 
 A glimpse of some projects i worked on.
 ## Retail Sales Performance Dashboard
