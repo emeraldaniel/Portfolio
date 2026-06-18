@@ -23,8 +23,39 @@
 ## MY PROJECTS
 
 A glimpse of some projects i worked on.
+# Retail Sales Performance Dashboard
 
-![image] (project)JJ
+**Tool Used:** Power BI
+
+## Business Problem
+
+Retail businesses need a clear understanding of sales performance across customers, states, and retailer categories to make informed decisions. Analyzing large volumes of sales data manually can be time-consuming and inefficient.
+
+## Project Description
+
+Developed an interactive Power BI dashboard that provides insights into retail sales performance by customer, state, and retailer type. The dashboard enables users to monitor key business metrics and identify trends that impact profitability and revenue generation.
+
+## Dashboard Screenshot
+
+![image] (*(Insert dashboard image here)*
+
+## Key Insights
+
+* Akwa Ibom recorded the highest quantity sold among the displayed states.
+* Costco emerged as the most profitable customer.
+* Profit performance varied across retailer categories, highlighting differences in business contribution.
+* Revenue distribution across quarters revealed opportunities for seasonal sales analysis.
+
+## What I Learned
+
+* Designing interactive dashboards in Power BI.
+* Creating KPIs and visual reports for business users.
+* Transforming raw sales data into actionable insights.
+* Applying data visualization techniques to support decision-making.
+
+
+
+
 
 
 
