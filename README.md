@@ -37,7 +37,7 @@ Developed an interactive Power BI dashboard that provides insights into retail s
 
 ## Dashboard Screenshot
 
-![bbb.png] 
+![image](bbb.png) 
 
 ## Key Insights
 
