@@ -38,17 +38,17 @@
 ![Retail Sales Dashboard](bbb.png)
 
 ## Key Insights
-** Akwa Ibom recorded the highest quantity sold among the displayed states.**
-** Costco emerged as the most profitable customer.**
-** Profit performance varied across retailer categories, highlighting differences in business contribution.**
-** Revenue distribution across quarters revealed opportunities for seasonal sales analysis.**
+**Akwa Ibom recorded the highest quantity sold among the displayed states.**
+**Costco emerged as the most profitable customer.**
+**Profit performance varied across retailer categories, highlighting differences in business contribution.**
+**Revenue distribution across quarters revealed opportunities for seasonal sales analysis.**
 
 ## What I Learned
 
-** Designing interactive dashboards in Power BI.**
-** Creating KPIs and visual reports for business users.**
-** Transforming raw sales data into actionable insights.**
-** Applying data visualization techniques to support decision-making.**
+**Designing interactive dashboards in Power BI.**
+**Creating KPIs and visual reports for business users.**
+**Transforming raw sales data into actionable insights.**
+**Applying data visualization techniques to support decision-making.**
 
 ## CookieMetrics Pro Dashboard
 
@@ -66,17 +66,17 @@
 
 ## Key Insights
 
-** Product sales volumes varied significantly across product categories.**
-** Revenue and cost metrics provided a clear view of business profitability.**
-** Country-level analysis highlighted differences in market performance.**
-** Interactive filters enabled quick comparison of products and regions.**
+**Product sales volumes varied significantly across product categories.**
+**Revenue and cost metrics provided a clear view of business profitability.**
+**Country-level analysis highlighted differences in market performance.**
+**Interactive filters enabled quick comparison of products and regions.**
 
 ## What I Learned
 
-** Building dynamic dashboards using Excel.**
-** Using Pivot Tables and Slicers for interactive reporting.**
-** Presenting business data through effective visualizations.**
-** Creating KPI-driven reports for performance monitoring.**
+**Building dynamic dashboards using Excel.**
+**Using Pivot Tables and Slicers for interactive reporting.**
+**Presenting business data through effective visualizations.**
+**Creating KPI-driven reports for performance monitoring.**
 
 ## Refresh Insights – Beverage Brand Sales Dashboard
 
@@ -94,16 +94,19 @@
 
 ## Key Insights
 
-** Revenue exceeded $661 million while profit approached $660 million.**
-** Certain beverage brands generated higher unit sales than others.**
-**** Revenue performance differed across regions, highlighting top-performing markets.**
-** Monthly average prices remained relatively stable with slight fluctuations throughout the year.**
+**Revenue exceeded $661 million while profit approached $660 million.**
+**Certain beverage brands generated higher unit sales than others.**
+**Revenue performance differed across regions, highlighting top-performing markets.**
+**Monthly average prices remained relatively stable with slight fluctuations throughout the year.**
 
 ## What I Learned
 
-** Creating business-focused dashboards in Excel.**
-** Developing KPI cards and interactive filters.**
-** Analyzing sales trends and brand performance.**
-** Converting raw sales data into actionable business insights.**
+**Creating business-focused dashboards in Excel.**
+**Developing KPI cards and interactive filters.**
+**Analyzing sales trends and brand performance.**
+**Converting raw sales data into actionable business insights.**
+
+# CONTACT DETAILS
+
 
 
