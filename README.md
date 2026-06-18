@@ -63,9 +63,7 @@ Organizations need a simple way to track product sales, revenue, costs, and prof
 
 Built an interactive Excel dashboard to monitor product performance, profitability, and revenue trends across multiple countries. Using Pivot Tables, Pivot Charts, and Slicers, the dashboard delivers a concise overview of business performance.
 
-## Dashboard Screenshot
-
-*(Insert dashboard image here)*
+![Cookie MetricPro](dfg.png)
 
 ## Key Insights
 
