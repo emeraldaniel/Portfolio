@@ -1,114 +1,159 @@
-# ABOUT ME
+# Peace Friday Daniel | Aspiring Data Analyst
 
-Hello, I'm Peace Friday Daniel, an aspiring Data Analyst passionate about transforming data into meaningful insights and actionable solutions. Through hands-on projects and continuous learning, I have developed strong analytical, problem-solving, and reporting skills. I also enjoy supporting and mentoring fellow learners, helping them grow in their data analytics journey. I am committed to leveraging data to solve real-world problems and contribute to informed decision-making.
+**Excel | Power BI | SQL | Python**
 
-# WHAT I DO
+---
 
-✅Analyze and interpret data to uncover insights.
+## ABOUT ME
 
-✅Build interactive dashboards using Power BI and Excel.
+Hello, I'm Peace Friday Daniel, an aspiring Data Analyst with hands-on experience in data cleaning, analysis, visualization, and reporting.
 
-✅Query and manage data using SQL.
+Through practical projects and continuous learning, I have developed experience using **Excel, Power BI, SQL, and Python** to explore data, create dashboards, and communicate insights clearly.
 
-✅Perform data cleaning and analysis with Python.
+I also enjoy supporting fellow learners as they develop their technical skills and understanding of data analytics.
 
-✅Support and mentor fellow learners in data analytics.
+---
 
-# TOOLS
-Excel
-Power BI
-SQL
-Python
+## WHAT I DO
+
+- Analyze and interpret data to identify patterns and insights.
+- Build interactive dashboards using **Power BI** and **Excel**.
+- Write **SQL queries** to retrieve, filter, and analyze data.
+- Perform data cleaning and analysis using **Python**.
+- Support fellow learners in developing their data analytics skills.
+
+---
+
+## TOOLS & TECHNOLOGIES
+
+| Tool | Skills |
+|---|---|
+| **Microsoft Excel** | Data cleaning, PivotTables, PivotCharts, Slicers, and dashboards |
+| **Power BI** | Data visualization, interactive dashboards, and DAX |
+| **SQL** | Data retrieval, filtering, joins, and aggregation |
+| **Python** | Data analysis and data manipulation using Pandas and NumPy |
+
+---
 
 # MY PROJECTS
 
-A glimpse of some projects I worked on.
-## Retail Sales Performance Dashboard
+A selection of practical data analytics projects I have completed using Excel and Power BI.
 
-**Tool Used:** **Power BI
+---
 
-## Business Problem
+## 1. Retail Sales Performance Dashboard
 
-**Retail businesses need a clear understanding of sales performance across customers, states, and retailer categories to make informed decisions. Analyzing large volumes of sales data manually can be time-consuming and inefficient.
+*Tool Used: Power BI*
 
-## Project Description
+### Business Problem
 
-**Developed an interactive Power BI dashboard that provides insights into retail sales performance by customer, state, and retailer type. The dashboard enables users to monitor key business metrics and identify trends that impact profitability and revenue generation.
+Retail businesses need a clear understanding of sales performance across customers, states, and retailer categories. Analyzing large volumes of sales data manually can be time-consuming.
+
+### Project Description
+
+Developed an interactive Power BI dashboard to analyze retail sales performance by customer, state, and retailer type. The dashboard presents key business metrics and visualizations that make it easier to explore sales and profit performance.
 
 ![Retail Sales Dashboard](bbb.png)
 
-## Key Insights
-**Akwa Ibom recorded the highest quantity sold among the displayed states.
-**Costco emerged as the most profitable customer.
-**Profit performance varied across retailer categories, highlighting differences in business contribution.
-**Revenue distribution across quarters revealed opportunities for seasonal sales analysis.
+### Key Insights
 
-## What I Learned
+- Akwa Ibom recorded the highest quantity sold among the displayed states.
+- Costco recorded the highest profit among the displayed customers.
+- Profit performance varied across retailer categories.
+- Revenue distribution across quarters provided an opportunity to examine seasonal sales patterns.
 
-**Designing interactive dashboards in Power BI.
-**Creating KPIs and visual reports for business users.
-**Transforming raw sales data into actionable insights.
-**Applying data visualization techniques to support decision-making.
+### What I Learned
 
-## CookieMetrics Pro Dashboard
+- Designing interactive dashboards in Power BI.
+- Creating KPIs and visual reports.
+- Transforming raw data into useful visual insights.
+- Applying data visualization techniques to communicate findings clearly.
 
-**Tool Used:** **Microsoft Excel
+**[View Dashboard](YOUR_PROJECT_LINK_HERE)**
 
-## Business Problem
+---
 
-**Organizations need a simple way to track product sales, revenue, costs, and profitability across different countries and product categories. Raw spreadsheets often make trend analysis difficult.
+## 2. CookieMetrics Pro Dashboard
 
-## Project Description
+*Tool Used: Microsoft Excel*
 
-**Built an interactive Excel dashboard to monitor product performance, profitability, and revenue trends across multiple countries. Using Pivot Tables, Pivot Charts, and Slicers, the dashboard delivers a concise overview of business performance.
+### Business Problem
 
-![Cookie MetricPro](dfg.png)
+Businesses need a simple way to monitor product sales, revenue, costs, and profitability across different countries and product categories. Raw spreadsheets can make it difficult to identify trends and compare performance.
 
-## Key Insights
+### Project Description
 
-**Product sales volumes varied significantly across product categories.
-**Revenue and cost metrics provided a clear view of business profitability.
-**Country-level analysis highlighted differences in market performance.
-**Interactive filters enabled quick comparison of products and regions.
+Built an interactive Excel dashboard to analyze product performance, profitability, and revenue trends across multiple countries. The dashboard uses **PivotTables, PivotCharts, and Slicers** to provide an interactive view of business performance.
 
-## What I Learned
+![CookieMetrics Pro Dashboard](dfg.png)
 
-**Building dynamic dashboards using Excel.
-**Using Pivot Tables and Slicers for interactive reporting.
-**Presenting business data through effective visualizations.
-**Creating KPI-driven reports for performance monitoring.
+### Key Insights
 
-## Refresh Insights – Beverage Brand Sales Dashboard
+- Product sales volumes varied across different product categories.
+- Revenue and cost metrics provided insight into overall profitability.
+- Country-level analysis highlighted differences in market performance.
+- Interactive filters allowed for quick comparison of products and regions.
 
-**Tool Used:** Microsoft Excel
+### What I Learned
 
-## Business Problem
+- Building interactive dashboards in Excel.
+- Using PivotTables, PivotCharts, and Slicers for analysis.
+- Presenting business data through clear visualizations.
+- Creating KPI-focused reports for performance monitoring.
 
-**Beverage companies require visibility into sales performance, profitability, expenses, and regional trends to optimize operations and improve decision-making.
+**[View Dashboard](YOUR_PROJECT_LINK_HERE)**
 
-## Project Description
+---
 
-**Developed an Excel dashboard that analyzes beverage sales performance across brands and regions. The dashboard consolidates revenue, profit, expenses, units sold, and pricing metrics into an easy-to-understand reporting interface.
+## 3. Refresh Insights – Beverage Brand Sales Dashboard
 
-![Beverage Insights](rrr.png)
+*Tool Used: Microsoft Excel*
 
-## Key Insights
+### Business Problem
 
-**Revenue exceeded $661 million while profit approached $660 million.
-**Certain beverage brands generated higher unit sales than others.
-**Revenue performance differed across regions, highlighting top-performing markets.
-**Monthly average prices remained relatively stable with slight fluctuations throughout the year.
+Beverage companies need visibility into sales performance, profitability, expenses, and regional trends to better understand business performance.
 
-## What I Learned
+### Project Description
 
-**Creating business-focused dashboards in Excel.
-**Developing KPI cards and interactive filters.
-**Analyzing sales trends and brand performance.
-**Converting raw sales data into actionable business insights.
+Developed an Excel dashboard to analyze beverage sales performance across brands and regions. The dashboard brings together revenue, profit, expenses, units sold, and pricing metrics in one reporting interface.
 
-# CONTACT DETAILS
+![Beverage Insights Dashboard](rrr.png)
 
-**Phone: +234 706 552 3754
-**Email: peacedanielfriday@gmail.com
+### Key Insights
 
+- Revenue exceeded $661 million while reported profit approached $660 million in the dataset.
+- Beverage brands differed in their unit sales performance.
+- Revenue varied across regions, highlighting differences in market performance.
+- Monthly average prices remained relatively stable with some fluctuations throughout the period analyzed.
 
+### What I Learned
+
+- Creating business-focused dashboards in Excel.
+- Developing KPI cards and interactive filters.
+- Analyzing sales and brand performance.
+- Converting raw data into clear visual reports.
+
+**[View Dashboard](YOUR_PROJECT_LINK_HERE)**
+
+---
+
+# TECHNICAL SKILLS
+
+- **Data Analysis**
+- **Data Cleaning & Transformation**
+- **Data Visualization**
+- **Dashboard Development**
+- **Microsoft Excel**
+- **Power BI & DAX**
+- **SQL Querying**
+- **Python Data Analysis**
+
+---
+
+# CONTACT
+
+- **Email:** peacedanielfriday@gmail.com
+- **Portfolio:** [View My Portfolio](YOUR_PORTFOLIO_LINK_HERE)
+- **GitHub:** [View My GitHub Profile](https://github.com/peacedaniel)
+- **Location:** Nigeria
+- **Availability:** Open to internship, entry-level, freelance, and collaboration opportunities
