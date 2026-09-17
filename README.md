@@ -153,7 +153,7 @@ Developed an Excel dashboard to analyze beverage sales performance across brands
 # CONTACT
 
 - **Email:** peacedanielfriday@gmail.com
-- **Portfolio:** [View My Portfolio](YOUR_PORTFOLIO_LINK_HERE)
+- **Portfolio:** [View My Portfolio](https://penguin-994bc6.my.canva.site/)
 - **GitHub:** [View My GitHub Profile](https://github.com/peacedaniel)
 - **Location:** Nigeria
 - **Availability:** Open to internship, entry-level, freelance, and collaboration opportunities
