@@ -1,6 +1,6 @@
 # Peace Friday Daniel | Aspiring Data Analyst
 
-**Excel | Power BI | SQL | Python**
+**Data Analytics | Healthcare Analytics | AI Tools & Automation**
 
 ---
 
@@ -8,7 +8,7 @@
 
 Hello, I'm Peace Friday Daniel, an aspiring Data Analyst interested in using data and technology to support better decisions and solve practical problems.
 
-Through hands-on projects and continuous learning, I work with **Excel, Power BI, SQL, and Python** to clean, explore, analyze, and visualize data, then communicate findings clearly. I'm also developing practical skills in **AI tools and workflow automation**, including building an appointment reminder, confirmation, and follow-up workflow with n8n and Gmail.
+Through hands-on projects and continuous learning, I work with **Excel, Power BI, SQL, and Python** to clean, explore, analyze, and visualize data, then communicate findings clearly. I'm also building practical skills in **AI tools and workflow automation**, including building an appointment reminder, confirmation, and follow-up workflow with n8n and Gmail.
 
 I'm particularly interested in **healthcare analytics** and how data can help people understand patterns and support better-informed decisions. I also enjoy supporting fellow learners as they develop their technical skills.
 
