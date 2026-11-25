@@ -39,7 +39,43 @@ I'm particularly interested in **healthcare analytics** and how data can help pe
 
 # MY PROJECTS
 
-A selection of practical data analytics projects I have completed using Excel and Power BI.
+A selection of practical data analytics and automation projects demonstrating my work with Excel, Power BI, and workflow automation.
+
+---
+
+## 1. Medical Appointment No-Show Analysis Dashboard
+
+*Tool Used: Microsoft Excel*
+
+### Project Overview
+
+Analyzed 110,527 medical appointment records to explore attendance patterns and understand characteristics associated with missed appointments. The interactive dashboard brings key appointment metrics and comparisons together to make the findings easier to explore.
+
+![Medical Appointment No-Show Dashboard](nnnn.png)
+
+### Areas Explored
+
+- Appointment attendance and no-show rates.
+- Waiting-time patterns and their relationship with missed appointments.
+- No-show patterns across age groups and weekdays.
+- Appointment outcomes by SMS reminder status.
+- Differences across neighbourhoods and patient types.
+
+### Key Findings
+
+- The overall no-show rate was approximately 20.19%.
+- Longer waiting periods were associated with higher no-show rates in the dataset.
+- No-show rates differed across age groups and weekdays.
+- Appointments marked as having received an SMS reminder showed a higher no-show rate than those without an SMS reminder in this dataset.
+
+*These findings describe patterns and associations in the data; they do not establish that any factor caused an appointment to be missed.*
+
+### What I Learned
+
+- Cleaning and preparing healthcare appointment data for analysis.
+- Building an interactive Excel dashboard with KPIs, charts, and filters.
+- Comparing attendance patterns across different patient and appointment characteristics.
+- Communicating findings carefully without making unsupported causal claims.
 
 ---
 
