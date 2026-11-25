@@ -19,7 +19,8 @@ I'm particularly interested in **healthcare analytics** and how data can help pe
 - Analyze and interpret data to identify patterns and insights.
 - Build interactive dashboards using **Power BI** and **Excel**.
 - Write **SQL queries** to retrieve, filter, and analyze data.
-- Perform data cleaning and analysis using **Python**.
+- Perform data cleaning and basic analysis using **Python**.
+- Build practical workflow automations using **n8n** and AI tools.
 - Support fellow learners in developing their data analytics skills.
 
 ---
@@ -29,9 +30,10 @@ I'm particularly interested in **healthcare analytics** and how data can help pe
 | Tool | Skills |
 |---|---|
 | **Microsoft Excel** | Data cleaning, PivotTables, PivotCharts, Slicers, and dashboards |
-| **Power BI** | Data visualization, interactive dashboards, and DAX |
+| **Power BI** | Data visualization and interactive dashboards |
 | **SQL** | Data retrieval, filtering, joins, and aggregation |
-| **Python** | Data analysis and data manipulation using Pandas and NumPy |
+| **Python** | Basic data analysis and data manipulation |
+| **n8n** | Workflow automation and Gmail integrations |
 
 ---
 
